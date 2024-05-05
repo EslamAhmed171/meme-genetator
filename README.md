@@ -12,3 +12,7 @@ This is a meme generator app built using React. It allows users to input text an
 ## Design
 
 The design for this project was created using Figma. You can view the design [here](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?node-id=0%3A1).
+
+## Usage
+
+You can use the app using the following link: [https://meme-genetator.onrender.com/](https://meme-genetator.onrender.com)
