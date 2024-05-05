@@ -15,4 +15,4 @@ The design for this project was created using Figma. You can view the design [he
 
 ## Usage
 
-You can use the app using the following link: [https://meme-genetator.onrender.com/](https://meme-genetator.onrender.com/)
+You can use the app using the following link: [here](https://meme-genetator.onrender.com/)
